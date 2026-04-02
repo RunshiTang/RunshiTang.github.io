@@ -3784,17 +3784,4 @@ input, select, textarea {
 
 		}
 
-/* New */
-
-.publication-list {
-  text-align: left;
-  margin: 0 auto;
-  max-width: 900px;
-}
-
-.publication-list li {
-  margin-bottom: 1.2em;
-  line-height: 1.5;
-}
-
 
